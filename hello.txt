@@ -5,8 +5,4 @@ I am Juhui! Nice To Meet U!
 
 i am youhyun
 hihi
-<<<<<<< HEAD
 third commit youhyun pull request
-=======
-this is jeon branch hohoho
->>>>>>> jeon commit
