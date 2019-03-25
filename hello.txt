@@ -3,6 +3,12 @@ hello
 
 가나다라마바사 아자차카 타파하
 멍멍
+
+practicepracticepracticepractice
+practicepracticepracticepractice
+practicepracticepracticepractice
+practicepracticepracticepractice
+
 my name is Baek jiyeon
 I love git
 I am Juhui
@@ -10,12 +16,17 @@ Nice to meet u
 Just Do git!!
 I want to do git plz...
 
-충돌충돌충돌 
+충돌충돌충돌 ]\
+
 충돌연습
+
+sfjksfksjfksjflafjkaf
+
 하하하하하하하
 하하하하하하하
 이건 백퍼 충돌이다
 리베이스 한다
+
 my name is jiyeon
 
  HEAD
