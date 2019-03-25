@@ -1,3 +1,4 @@
+가나나다
 hello
 
 가나다라마바사 아자차카 타파하
@@ -26,6 +27,8 @@ third commit youhyun pull request
 
 newbranch 새로 팠는데
 충돌 될까 안될까~?
+
+될꺼야~~~~~~~~
 이건 충돌 되겠지?~~~ second branch를 팠다
 충돌이 될 것이다 후후
 rebase 해야 될까 안 해도 될까~~~
