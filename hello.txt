@@ -3,6 +3,12 @@ hello
 
 가나다라마바사 아자차카 타파하
 멍멍
+
+practicepracticepracticepractice
+practicepracticepracticepractice
+practicepracticepracticepractice
+practicepracticepracticepractice
+
 my name is Baek jiyeon
 I love git
 I am Juhui
