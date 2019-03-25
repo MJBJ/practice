@@ -10,6 +10,10 @@ I want to do git plz...
 
 충돌충돌충돌 
 충돌연습
+하하하하하하하
+하하하하하하하
+이건 백퍼 충돌이다
+리베이스 한다
 my name is jiyeon
 
  HEAD
