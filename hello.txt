@@ -1,3 +1,27 @@
 hello
+<<<<<<< HEAD
 my name is Baek jiyeon
 I love git
+=======
+
+
+my name is jiyeon
+
+ HEAD
+I am Juhui! Nice To Meet U!
+
+text-jbranch hahaha
+so
+tired
+right now~
+
+i am youhyun
+hihi
+third commit youhyun pull request
+
+newbranch 새로 팠는데
+충돌 될까 안될까~?
+이건 충돌 되겠지?~~~ second branch를 팠다
+충돌이 될 것이다 후후
+rebase 해야 될까 안 해도 될까~~~
+>>>>>>> 94b80e2dd9d0e3ede6a5dc8cdd2864c2ba81d20f
