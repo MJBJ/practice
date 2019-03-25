@@ -19,7 +19,14 @@ I want to do git plz...
 충돌충돌충돌 ]\
 
 충돌연습
+
 sfjksfksjfksjflafjkaf
+
+하하하하하하하
+하하하하하하하
+이건 백퍼 충돌이다
+리베이스 한다
+
 my name is jiyeon
 
  HEAD
@@ -41,3 +48,9 @@ sdfdfsfsfsdfsdf
 이건 충돌 되겠지?~~~ second branch를 팠다
 충돌이 될 것이다 후후
 rebase 해야 될까 안 해도 될까~~~
+
+이건 충돌이
+될까
+안될가
+ㅎㅎㅎ
+깃 재미있군
