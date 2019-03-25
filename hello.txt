@@ -6,15 +6,12 @@ Nice to meet u
 Just Do git!!
 I want to do git plz...
 
-<<<<<<< HEAD
 충돌충돌충돌 
 충돌연습
-=======
 하하하하하하하
 하하하하하하하
 이건 백퍼 충돌이다
 리베이스 한다
->>>>>>> hahaha
 my name is jiyeon
 
  HEAD
