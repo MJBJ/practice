@@ -7,8 +7,6 @@ hello
 멍멍
 my name is Baek jiyeon
 I love git
-핫식스식스 핫식스식스핫식스
-식스식스 식스싯ㄱ스
 I am Juhui
 헬로헬로헬로~~
 충돌연습할거야!!!
