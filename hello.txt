@@ -15,6 +15,8 @@ rebase 연습하면서
 3/27 전유현
 	현재 시각 2019년 3월 27일 오전 1:38
     새벽이지만 rebase를 위해서라면
+    ** 지금은 10시 36분 ** 
+    깃 연습 중입니다.
     잠도 포기한다. 이것이 열정맨..?
 
 
@@ -31,25 +33,56 @@ rebase 연습하면서
     
 3/27 백지연
     좀 되라고오오옹 오늘 고기 먹나용
+    고기는 최고에요
     ㄴㄹㄴㄹ머라ㅣㅓㅁㄴ리
     가나나다
-
+    
 
 주희바보바보
 바부탱
 민총
 3/27 민주희
     현재 시각 2019년 3월 27일 오후 09시 15분 경
+    호호호호 
+    마스터에 올리려고 연습중이에요~
+    파이팅파이팅
+    우리 모두 파이팅~~
     깃시키
     오늘은 마스터할거에요~ 
 
 3/27 민민주주희희
+
+hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!
+충돌충돌
+hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+충돌충돌충돌
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+충돌내서 연습할거에요~
+머지 연습할거에요~~
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world! 
+
     이것은 충돌을 위한 작업!
     merge 연습을 해봅시다!
     git은 빨리 시작하면 할 수록 개이득!!!
+    충돌충돌
     멍멍!!
+
     현재 시각 2019-03-27 21:22
     JUST DO GIT!
+
+3/27 조혜영스
+	이것이 되는것인지 안되는것인지 알길이 없는데
+	뭔가 되는것 같아서 기쁘긴 함
+
 
 
 3/27 전유현
@@ -67,6 +100,9 @@ rebase 연습하면서
 3/27 전유현
 	마스터랑 아직 머지하면 안돼요~~
 	우리 기능이 다 안끝났다구~~~~
+	오키오키오키
+    충돌충돌충돌
+    오키오키오키
 	아직
 	아직
 	이야
@@ -74,7 +110,11 @@ rebase 연습하면서
 	리
 	깃
 
+<<<<<<< HEAD
 마지막 수정
 하하하하하
 충
 돌충돌
+=======
+마지막 수정 룰루랄라 룰루라라룰랄 
+>>>>>>> upstream/board
