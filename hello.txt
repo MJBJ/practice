@@ -1,4 +1,4 @@
-﻿''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 
 rebase 연습하면서 
@@ -26,7 +26,7 @@ rebase 연습하면서
     좀 되라고오오옹 오늘 고기 먹나용
     ㄴㄹㄴㄹ머라ㅣㅓㅁㄴ리
     가나나다
-
+    
 
 주희바보바보
 바부탱
@@ -37,10 +37,31 @@ rebase 연습하면서
     오늘은 마스터할거에요~ 
 
 3/27 민민주주희희
+
+hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world! 
+
     이것은 충돌을 위한 작업!
     merge 연습을 해봅시다!
     git은 빨리 시작하면 할 수록 개이득!!!
     멍멍!!
+
     현재 시각 2019-03-27 21:22
     JUST DO GIT!
+
+3/27 조혜영스
+	이것이 되는것인지 안되는것인지 알길이 없는데
+	뭔가 되는것 같아서 기쁘긴 함
+
+
 
