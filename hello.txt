@@ -26,7 +26,7 @@ rebase 연습하면서
     좀 되라고오오옹 오늘 고기 먹나용
     ㄴㄹㄴㄹ머라ㅣㅓㅁㄴ리
     가나나다
-
+    
 
 주희바보바보
 바부탱
@@ -37,6 +37,18 @@ rebase 연습하면서
     오늘은 마스터할거에요~ 
 
 3/27 민민주주희희
+hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world! 
     현재 시각 2019-03-27 21:22
     JUST DO GIT!
 
