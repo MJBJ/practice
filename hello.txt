@@ -110,4 +110,11 @@ hello world!hello world!hello world!hello world!
 	리
 	깃
 
+<<<<<<< HEAD
+마지막 수정
+하하하하하
+충
+돌충돌
+=======
 마지막 수정 룰루랄라 룰루라라룰랄 
+>>>>>>> upstream/board
