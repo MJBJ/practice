@@ -93,4 +93,7 @@ hello world!hello world!hello world!hello world!
 	충돌나길 바라는 개발자들이라니
 	ㅎㅋㅎㅋ
 	
-
+3/27 전유현
+	마스터랑 아직 머지하면 안돼요~~
+	우리 기능이 다 안끝났다구~~~~
+	
