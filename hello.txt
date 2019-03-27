@@ -39,7 +39,4 @@ rebase 연습하면서
 3/27 민민주주희희
     현재 시각 2019-03-27 21:22
     JUST DO GIT!
-<<<<<<< HEAD
-=======
 
->>>>>>> upstream/master
