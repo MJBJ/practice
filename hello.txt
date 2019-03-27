@@ -1,4 +1,4 @@
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+﻿''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 
 rebase 연습하면서 
@@ -15,15 +15,25 @@ rebase 연습하면서
 3/27 전유현
 	현재 시각 2019년 3월 27일 오전 1:38
     새벽이지만 rebase를 위해서라면
+    ** 지금은 10시 36분 ** 
+    깃 연습 중입니다.
     잠도 포기한다. 이것이 열정맨..?
+
+
+3/27 전유현
+	현재 시각 2019년 3월 27일 오후 9:12
+	오늘은 학교에서 밤을 샌다.
+	캡스톤이 우리의 집이다. 멋사 짱..ㅎㅎ
 
 3/27 조혜영
 	ㅎㅎ열정대표 쨩쨩맨! 
 	rebase를 위한 충돌을 만들어 주고 가셨어요
 	최고다~~!
+
     
 3/27 백지연
     좀 되라고오오옹 오늘 고기 먹나용
+    고기는 최고에요
     ㄴㄹㄴㄹ머라ㅣㅓㅁㄴ리
     가나나다
     
@@ -33,6 +43,10 @@ rebase 연습하면서
 민총
 3/27 민주희
     현재 시각 2019년 3월 27일 오후 09시 15분 경
+    호호호호 
+    마스터에 올리려고 연습중이에요~
+    파이팅파이팅
+    우리 모두 파이팅~~
     깃시키
     오늘은 마스터할거에요~ 
 
@@ -42,18 +56,24 @@ hello world!hello world!hello world!
 hello world!hello world!hello world!hello world!
 hello world!hello world!hello world!
 hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!
+충돌충돌
+hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+충돌충돌충돌
 hello world!hello world!hello world!hello world!hello world!hello world!hello world!
 hello world!hello world!hello world!hello world!hello world!hello world!hello world!
 hello world!hello world!hello world!hello world!hello world!hello world!hello world!
-hello world!hello world!hello world!hello world!hello world!hello world!hello world!
-hello world!hello world!hello world!hello world!hello world!hello world!hello world!
-hello world!hello world!hello world!hello world!hello world!hello world!hello world!
+충돌내서 연습할거에요~
+머지 연습할거에요~~
 hello world!hello world!hello world!hello world!hello world!hello world!hello world!
 hello world!hello world!hello world!hello world! 
 
     이것은 충돌을 위한 작업!
     merge 연습을 해봅시다!
     git은 빨리 시작하면 할 수록 개이득!!!
+    충돌충돌
     멍멍!!
 
     현재 시각 2019-03-27 21:22
@@ -72,3 +92,28 @@ hello world!hello world!hello world!hello world!
 
 skfjalsifjwlkjfaikmxcks
 sfafkalfkasf
+3/27 전유현
+	현재 시각 2019년 3월 27일 10:24
+	캡스톤에서 깃을 연습중이다.
+	리베이스 후 merge까지
+	우리는 깃 마스터를 할거다~~~~~!@@
+	브랜치 파서 하는중ㅎㅎ
+	...
+	현재 웹에디터로 고치다가 다시 하는중이다
+	충돌이 나지 않을까
+	충돌나길 바라는 개발자들이라니
+	ㅎㅋㅎㅋ
+	
+3/27 전유현
+	마스터랑 아직 머지하면 안돼요~~
+	우리 기능이 다 안끝났다구~~~~
+	오키오키오키
+    충돌충돌충돌
+    오키오키오키
+	아직
+	아직
+	이야
+	우
+	리
+	깃
+
